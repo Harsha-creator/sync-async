@@ -1,4 +1,4 @@
-# consuma
+# SYNC-ASYNC
 
 A Python backend that exposes the same "work" in two interaction styles:
 
